@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎查看我的GitHub!&center=true&size=27>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎光临我的GitHub!&center=true&size=27>)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -27,37 +27,25 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Hulk，00 后，211 本，毕业一年，目前All In Web3，RWA Hub 开发负责人</p>
-<p>&emsp;&emsp;主方向是后端，也写前端，技术栈 Java / Python / JS / React / Next.js / Solidity。</p>
-<p>&emsp;&emsp;曾在得物做智能客服；在万得（Wind）做全球企业数据库；最近一直在打黑客松 advx2025、ETH Shanghai 2025</p>
-<p>&emsp;&emsp;Chrome 插件 3copy 作者(vibe coding 神器)</p>
-<p>&emsp;&emsp;最近在做：RWA 项目创业项目 RWA Hub，平台提供 RWA 全流程服务，包括资产评估、项目可行性分析、资源整合、知识共建、各方协同、境外虚拟交易所选择、代币模型设计等</p>
+<div align="left">
+  <ul>
+    <li><strong>Hulk</strong> · 00 后 · 211 本 · 毕业一年 · 现 All In Web3，RWA Hub 开发负责人</li>
+    <li><strong>Tech</strong> · Java / Python / JS / React / Next.js / Solidity（后端为主，也写前端）</li>
+    <li><strong>经历</strong> · <a href="https://www.dewu.com/">得物</a> 智能客服 · <a href="https://www.wind.com.cn/">万得（Wind）</a> 全球企业数据库 · 黑客松 advx2025、ETH Shanghai 2025、Monad 黑客松</li>
+    <li><strong>作品</strong> · Chrome 插件 <a href="https://mp.weixin.qq.com/s/_uQe6n9FmuG8XtiruI4ARw">3copy</a>（vibe coding 神器）</li>
+    <li><strong>Now</strong> · RWA 创业项目 RWA Hub，提供资产评估、可行性分析、资源整合、知识共建、协同、交易所选择、代币模型设计等全流程服务</li>
+  </ul>
+</div>
 
 </tr></td>
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📃 Recent Doing
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 </td></tr>
-
-<tr><td>
-
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Wednesday                401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 %
-Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Friday                   660 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 %
-Saturday                 228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Sunday                   438 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
-```
-
-Last Updated on 30/11/2025 00:50:59 UTC
 
 <!--END_SECTION:waka-->
 
@@ -129,8 +117,6 @@ Last Updated on 30/11/2025 00:50:59 UTC
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
