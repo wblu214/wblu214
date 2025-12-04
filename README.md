@@ -1,12 +1,6 @@
 <div align="center">
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎光临我的GitHub!&center=true&size=27>)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-</picture>
+<img src="./assets/hero.svg" alt="Hulk GitHub Hero" width="100%" />
 
 <div>&nbsp;</div>
 
@@ -54,17 +48,11 @@
 </table>
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wblu214&theme=react-dark&area=true&hide_border=true&custom_title=Hulk%20Commit%20Graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wblu214&bg_color=ffffff&color=0a0a0a&line=2563eb&point=3b82f6&area=true&hide_border=true&custom_title=Hulk%20Commit%20Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wblu214&theme=react-dark&area=true&hide_border=true&custom_title=Hulk%20Commit%20Graph" alt="Hulk's GitHub commit graph" />
+  </picture>
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
