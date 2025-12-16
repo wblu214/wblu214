@@ -24,8 +24,8 @@
 <div align="left">
   <ul>
     <li><strong>Hulk</strong> · 00 后 · 211 本 · 毕业一年 · 现 All In Web3，RWA Hub 开发负责人</li>
-    <li><strong>Tech</strong> · Java / Python / JS / React / Next.js / Solidity（后端为主，也写前端）</li>
-    <li><strong>经历</strong> · <a href="https://www.dewu.com/">得物</a> 智能客服 · <a href="https://www.wind.com.cn/">万得（Wind）</a> 全球企业数据库 · 黑客松 advx2025、ETH Shanghai 2025、Monad 黑客松</li>
+    <li><strong>Tech</strong> · Java / Golang / Python / JS / React / Next.js / Solidity（后端为主，也写前端）</li>
+    <li><strong>经历</strong> · <a href="https://www.dewu.com/">得物</a> 智能客服 · <a href="https://www.wind.com.cn/">万得（Wind）</a> 全球企业数据库 · 黑客松   <a href="https://www.yuque.com/wudihaoke-o3lci/hmab3i/rmuh6o9k5gvrbka1?singleDoc#%20"> BNB阿布扎比 </a>、advx2025、ETH Shanghai 2025、Monad 黑客松</li>
     <li><strong>作品</strong> · Chrome 插件 <a href="https://mp.weixin.qq.com/s/_uQe6n9FmuG8XtiruI4ARw">3copy</a>（vibe coding 神器）</li>
     <li><strong>Now</strong> · RWA 创业项目 RWA Hub，提供资产评估、可行性分析、资源整合、知识共建、协同、交易所选择、代币模型设计等全流程服务</li>
   </ul>
