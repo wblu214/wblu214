@@ -14,8 +14,6 @@
 # 🙋 Hello, I'm Hulk
 
 <table>
-
-
 <tr><td>
 
 ### 🤺 About Me
