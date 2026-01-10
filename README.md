@@ -11,7 +11,7 @@
 </div>
 <span id="wechat-contact"></span>
 
-# 🙋 Hello, I'm Hulk/LWB
+# 🙋 Hello, I'm Hulk
 <table>
 <tr><td>
 
