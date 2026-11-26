@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi, I'm Hulk 👋
+<img src="./assets/hero.svg" alt="Build. Ship. Repeat. — AI, Web3 and Quant" width="100%" />
+
+# Hi, I’m Hulk 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+reliable+AI+agents;Engineering+Web3+infrastructure;Researching+systematic+trading" alt="AI agents, Web3 infrastructure, systematic trading" />
 
 **Software Engineer · AI Agents · Web3 · Quantitative Trading**
 
@@ -12,7 +16,7 @@ Building reliable agent systems, blockchain applications, and automated trading 
 
 </div>
 
-## About me
+## 👨‍💻 About me
 
 I'm a software engineer with a backend engineering background and a B.Eng. in Computer Science and Technology from Ningxia University. My work focuses on taking ideas from prototypes to practical, maintainable systems.
 
@@ -22,16 +26,16 @@ I'm a software engineer with a backend engineering background and a B.Eng. in Co
 
 Previously worked on intelligent customer service at Dewu and enterprise data systems at Wind. Interested in remote engineering opportunities and open-source collaboration.
 
-## Selected projects
+## 🚀 Selected projects
 
-### AI & Agent Infrastructure
+### 🧠 AI & Agent Infrastructure
 
 | Project | What it does |
 | --- | --- |
 | [LoopGraph Supervisor](https://github.com/wblu214/rsi-loopgraph-supervisor) | Graph-based agent supervision with durable checkpoints, verification loops, human approval, rollback and recovery. |
 | [AI Agent Delivery Runner](https://github.com/wblu214/skill_runner) | Lightweight skill execution MVP with tool registry, local RAG, execution traces and rule-based evaluation. |
 
-### Web3 & DeFi
+### ⛓️ Web3 & DeFi
 
 | Project | What it does |
 | --- | --- |
@@ -39,7 +43,7 @@ Previously worked on intelligent customer service at Dewu and enterprise data sy
 | [CINA DeFi Backend](https://github.com/wblu214/cina_dex_backend) | Go backend for a collateralized lending protocol with oracle pricing, borrowing and liquidation workflows. |
 | [ChainLex.ai](https://github.com/wblu214/ChainLaw.ai) | AI-assisted RWA tokenization and compliance workflow prototype. |
 
-### Quantitative Trading
+### 📈 Quantitative Trading
 
 Current engineering focus (research and non-public implementations):
 
@@ -47,11 +51,20 @@ Current engineering focus (research and non-public implementations):
 - Systematic trading: volume profile, VWAP, signal generation and historical backtesting.
 - Prediction markets: trade monitoring, market data ingestion and liquidity analysis.
 
-### Developer Tools
+### 🛠️ Developer Tools
 
 [3copy](https://github.com/wblu214/3copy) — Chrome extension for extracting DOM selectors, computed styles and HTML to accelerate frontend development.
 
-## Engineering toolkit
+## ⚡ Engineering toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,py,ts,solidity,java,fastapi,react,nextjs&amp;theme=dark" alt="Go, Python, TypeScript, Solidity, Java, FastAPI, React, Next.js" />
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,kafka,docker,linux,prometheus,grafana&amp;theme=dark" alt="PostgreSQL, Redis, MySQL, Kafka, Docker, Linux, Prometheus, Grafana" />
+
+</div>
+
 
 | Area | Technologies |
 | --- | --- |
@@ -62,11 +75,18 @@ Current engineering focus (research and non-public implementations):
 | Blockchain | Foundry · OpenZeppelin · EVM · wagmi · viem |
 | Frontend & infrastructure | Next.js · React · Docker · Linux · Prometheus · Grafana |
 
-## Open source
+## 🌱 Open source
 
 My contribution focus is AI infrastructure, Web3 protocols and quantitative trading systems. I prioritize reproducible bug fixes, meaningful tests, maintainable code and constructive collaboration with maintainers.
 
-## GitHub activity
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wblu214&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics" width="48%" />
+<img src="https://streak-stats.demolab.com?user=wblu214&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" width="48%" />
+
+</div>
 
 <div align="center">
   <picture>
@@ -80,5 +100,7 @@ My contribution focus is AI infrastructure, Web3 protocols and quantitative trad
 <div align="center">
 
 **Build useful systems. Measure what matters. Keep improving.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1224,50:7C3AED,100:22D3EE&amp;height=95&amp;section=footer" alt="" width="100%" />
 
 </div>
