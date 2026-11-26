@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Build. Ship. Repeat. — AI, Web3 and Quant" width="100%" />
-
 # Hi, I’m Hulk 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+reliable+AI+agents;Engineering+Web3+infrastructure;Researching+systematic+trading" alt="AI agents, Web3 infrastructure, systematic trading" />
